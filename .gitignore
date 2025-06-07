@@ -1,11 +1,6 @@
-# Ignore database credentials
 php/db.php
-
-# Ignore other sensitive or local config files (optional)
 .env
 *.env
-
-# Ignore OS and IDE files
 .DS_Store
 Thumbs.db
 .vscode/
