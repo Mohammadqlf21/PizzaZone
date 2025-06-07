@@ -1,6 +1,6 @@
 # Pizza Zone 🍕
 
-Pizza Web Page for My Web Technologies Course in Uni
+Pizza Website for My Web Technologies Course in Uni
 
 A modern, responsive pizza ordering web application built with PHP, HTML, CSS, and JavaScript.
 
